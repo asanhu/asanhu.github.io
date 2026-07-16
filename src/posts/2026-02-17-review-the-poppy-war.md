@@ -1,5 +1,5 @@
 ---
-title: "Book Review: The Poppy War Trilogy"
+title: "The Poppy War Trilogy"
 date: 2026-02-17
 tags: [books]
 ---
@@ -16,5 +16,3 @@ About the ending: If you've read R.F. Kuang, you know she doesn't believe in hap
 
 Verdict: 10/10. ⭐️⭐️⭐️⭐️⭐️
 If you haven't read her yet, start with Yellowface, then you will be as obsessed as I am! And I was so happy learning she released a new book last year, so I still have one more massive book from her to devour!
-
-#ThePoppyWar #RFKuang #BookReview #Fantasy #GodsOfHonour

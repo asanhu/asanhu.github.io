@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
-  // Copy CSS straight through
+  // Copy CSS and images straight through
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/img");
 
   // Human-readable date, e.g. "13 July 2026"
   eleventyConfig.addFilter("readableDate", (dateObj) => {

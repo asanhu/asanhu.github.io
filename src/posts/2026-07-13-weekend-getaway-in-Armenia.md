@@ -47,3 +47,8 @@ fair in Armenia (geeky romantic). Alex, post-doc in theoretic physics in a unive
 
 Me and Alex actually grew something in the trip but quickally dismissed itself, he was with me during the hardest part of the ascent and descent. And I felt tremendously safer when he held my hands firmly and always looked back to find me if I was behind. 
 He is a very reserved and shy boy and for a moment I wish I could stay longer in Armenia and get to know him better. But c'est la vie, in a trip, we experience things on a double speed, life was accelerated and feelings amplified. When life returns to its routine, we carefully put those lovely momories in a vault somewhere in our mind and open it whenever we want to remind ourselves that life is more than a routine but occasional excitement awaiting.
+
+
+
+
+

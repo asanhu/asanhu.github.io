@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Klara and the Sun"
+title: "Klara and the Sun"
 date: 2026-03-11
 tags: [books]
 ---
@@ -9,5 +9,3 @@ This one left me with a very mixed and unsettled feeling, maybe that's why this 
 I think the premise had so much more potential, especially coming from Ishiguro. But the story struggles to escape the clichés of human-robot intimacy and never quite reaches the depth I was hoping for.
 
 What bothers me most, perhaps, is the overly childlike narrative tone, at times it felt less like literary fiction and more like a book written for children.
-
-#kazuoishiguro #klaraandthesun #bookreview

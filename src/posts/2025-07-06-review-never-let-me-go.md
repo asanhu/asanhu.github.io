@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Never Let Me Go"
+title: "Never Let Me Go"
 date: 2025-07-06
 tags: [books]
 ---
@@ -13,5 +13,3 @@ We're shown a world where human beings with full emotional capacity are created 
 What struck me most is how the society in the novel, much like ours, copes with this horror: by turning a blind eye. By convincing ourselves these beings are somehow less than human, unworthy of decent treatment, education, or even livable conditions. It's chilling how clever and how self-deceiving we can be.
 
 What does it mean to be human? Who gets to decide that? And who gets to determine whose life is more valuable?
-
-#neverletmego #kazuoishiguro

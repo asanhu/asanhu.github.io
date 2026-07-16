@@ -1,5 +1,5 @@
 ---
-title: "Book Review: When We Were Orphans"
+title: "When We Were Orphans"
 date: 2026-04-09
 tags: [books]
 ---
@@ -11,5 +11,3 @@ What stayed with me is how interesting it is to view that traumatic history thro
 There's something darkly ironic in how Ishiguro uses the detective genre as a vehicle for self-deception as Banks is celebrated as a great detective yet spends the whole novel failing to solve the most personal case of his own life.
 
 I was also surprised to see Kazuo writing about this history in such a critical and subtly sarcastic manner as a Japanese-British author, which makes his perspective even more special. Now onto the next Kazuo Ishiguro book!
-
-#bookreview #kazuoishiguro #whenwewereorphans

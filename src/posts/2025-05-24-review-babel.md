@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Babel"
+title: "Babel"
 date: 2025-05-24
 tags: [books]
 ---
@@ -17,5 +17,3 @@ What's brilliant is how Kuang examines the seductive trap of tokenism. These cha
 The ending, where they choose to destroy both Babel Tower and themselves, reads less like defeat than recognition. Sometimes the only way to stop being complicit is to throw yourself into the gears of the system that shaped you.
 
 This is dark academia with actual teeth—no romanticizing of elite institutions, just the uncomfortable truth about how power uses your identity against you while making you grateful for the privilege.
-
-#rfkuangbabel

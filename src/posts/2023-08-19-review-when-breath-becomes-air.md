@@ -1,5 +1,5 @@
 ---
-title: "Book Review: When Breath Becomes Air"
+title: "When Breath Becomes Air"
 date: 2023-08-19
 tags: [books]
 ---
@@ -17,5 +17,3 @@ The epilogue written by his wife Lucy strikes my heart the most. She digests the
 "What happened to Paul was tragic, but he was not a tragedy."
 
 Note: this book is my travel buddy: bought in a bookstore in London, read it on the flight from London to Shanghai, and from Shanghai to New York, and finally finishes it on the train to D.C. Who would've thought I could start my weekend trip with such a sorrow 🙁
-
-#bookstagram #bookreview #whenbreathbecomesair

@@ -1,5 +1,5 @@
 ---
-title: "Book Review: The Gin Sisters' Promise"
+title: "The Gin Sisters' Promise"
 date: 2026-06-26
 tags: [books]
 ---
@@ -9,5 +9,3 @@ Honestly, this isn't the kind of book I would typically pick up in a bookstore. 
 At its core, the book is a very warm-hearted tale centered on the complicated family relationships between three estranged sisters. I won't lie that the plotline is undeniably corny and a bit cheesy at times.
 
 While it might not be a literary masterpiece, it was exactly what I needed. Sometimes, we don't need complex plots or heavy themes; we just need a gentle, uplifting story to light up our hearts. Reading it will always remind me of the quiet warmth and unexpected connections we find while traveling.
-
-#theginsisterspromise #faithhogan #bookreview

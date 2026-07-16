@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Yellowface"
+title: "Yellowface"
 date: 2024-06-12
 tags: [books]
 ---
@@ -11,5 +11,3 @@ Described as "a horror story about loneliness in a fiercely competitive industry
 There are some horror elements late in the novel, which really perked me up during the late night, but I wish there could be more (craving for more horror elements!) I really wish the ending could be more elaborative on what the pseudo-memoir of June could be like and how the two contrasting narratives from Candice Lee and June will collide and end.
 
 I'd give Yellowface a 4.5 out of 5 and highly recommend it for a thrilling read!
-
-#yellowface #rfkuang #yellowfacebook #bookreview

@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Katabasis"
+title: "Katabasis"
 date: 2026-03-11
 tags: [books]
 ---
@@ -9,5 +9,3 @@ My very last R.F. Kuang book (before she publishes anything new), and this one i
 This is also the first of her books to end with a genuinely happy ending, and I read it with a great sense of lightness.
 
 What a fun read!
-
-#katabasis #rfkuang #bookreview
