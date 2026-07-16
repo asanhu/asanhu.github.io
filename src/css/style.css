@@ -1,19 +1,11 @@
 :root {
-  --text: #21272c;
-  --muted: #6b6b6b;
-  --link: #21272c;
-  --border: #e6e1d5;
-  --bg: #faf7f0;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #e8e8e8;
-    --muted: #9a9a9a;
-    --link: #e8e8e8;
-    --border: #333;
-    --bg: #141414;
-  }
+  --bg: #ffffff;
+  --text: #515151;
+  --heading: #2b2b2b;
+  --muted: #aaaaaa;
+  --link: #268bd2;
+  --border: #eeeeee;
+  --sidebar-width: 200px;
 }
 
 * {
@@ -21,93 +13,194 @@
 }
 
 body {
-  margin: 0 auto;
-  padding: 2rem 1.25rem 4rem;
-  max-width: 42rem;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.0625rem;
-  line-height: 1.7;
+  margin: 0;
+  font-family: -apple-system, "system-ui", "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.6;
   color: var(--text);
   background: var(--bg);
 }
 
 a {
-  color: var(--link);
-  text-underline-offset: 3px;
-}
-
-a:hover {
+  color: inherit;
   text-decoration: none;
 }
 
-/* Header */
-.site-header {
+/* Layout */
+.layout {
   display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.5rem 1.5rem;
-  margin-bottom: 3rem;
+  max-width: 900px;
+  margin: 0 auto;
+  min-height: 100vh;
 }
 
+.sidebar {
+  width: var(--sidebar-width);
+  flex: none;
+  padding: 3rem 1.5rem 2rem 0;
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 3rem 2rem 4rem;
+  min-width: 0;
+}
+
+/* Sidebar */
 .site-title {
-  font-weight: bold;
-  font-size: 1.25rem;
-  text-decoration: none;
-  margin-right: auto;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--heading);
+  margin-bottom: 2rem;
+  display: block;
 }
 
-.site-header nav {
+.sidebar nav {
   display: flex;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 0.9rem;
+  margin-bottom: 2.5rem;
 }
 
-.site-header nav a {
+.sidebar nav a {
   color: var(--muted);
-  text-decoration: none;
-  font-size: 0.95rem;
+  font-weight: 300;
+  font-size: 1rem;
 }
 
-.site-header nav a:hover {
+.sidebar nav a:hover {
+  color: var(--link);
+}
+
+.sidebar-newsletter {
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.sidebar-newsletter-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--heading);
+  margin: 0 0 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.sidebar-newsletter form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.sidebar-newsletter input[type="email"] {
+  padding: 0.45rem 0.6rem;
+  font: inherit;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
   color: var(--text);
+  width: 100%;
 }
 
-/* Post list */
-.post-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.sidebar-newsletter button {
+  padding: 0.45rem 0.6rem;
+  font: inherit;
+  font-size: 0.85rem;
+  border: 1px solid var(--heading);
+  border-radius: 4px;
+  background: var(--heading);
+  color: var(--bg);
+  cursor: pointer;
 }
 
-.post-list li {
-  display: flex;
-  align-items: baseline;
-  gap: 1rem;
-  padding: 0.4rem 0;
+.sidebar-newsletter button:hover {
+  opacity: 0.85;
 }
 
-.post-list time {
+.colophon {
   color: var(--muted);
-  font-size: 0.9rem;
-  white-space: nowrap;
-  min-width: 6.5rem;
+  font-size: 0.75rem;
+  margin: 1.5rem 0 0;
+}
+
+/* Page title (category pages) */
+.page-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--heading);
+  margin: 0 0 1.5rem;
+  text-transform: capitalize;
+}
+
+/* Entry list (index + category pages) */
+.entry-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.entry {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.entry:last-child {
+  border-bottom: none;
+}
+
+.entry-title {
+  display: block;
+  color: var(--link);
+  font-size: 1.15rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.entry-title:hover {
+  text-decoration: underline;
+}
+
+.entry-date {
+  display: block;
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin-top: 0.25rem;
 }
 
 /* Posts */
 .post h1,
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.6rem;
   line-height: 1.3;
+  color: var(--heading);
   margin: 0 0 0.25rem;
+  font-weight: 600;
 }
 
 .meta {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   margin-top: 0;
+}
+
+.meta a {
+  color: var(--muted);
+}
+
+.meta a:hover {
+  color: var(--link);
 }
 
 .post img {
   max-width: 100%;
+}
+
+.post p {
+  margin: 0 0 1.1rem;
 }
 
 blockquote {
@@ -129,58 +222,56 @@ hr {
   margin: 2.5rem 0;
 }
 
-/* Footer / newsletter */
-.site-footer {
-  margin-top: 4rem;
-  padding-top: 2rem;
-  border-top: 1px solid var(--border);
+/* About page prose */
+.content h1 {
+  margin-bottom: 1rem;
 }
 
-.newsletter h2 {
-  font-size: 1.1rem;
-  margin: 0 0 0.25rem;
-}
+/* Responsive */
+@media (max-width: 700px) {
+  .layout {
+    flex-direction: column;
+  }
 
-.newsletter p {
-  color: var(--muted);
-  font-size: 0.95rem;
-  margin: 0 0 0.75rem;
-}
+  .sidebar {
+    width: 100%;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding: 1.75rem 1.25rem 1.5rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem 1.25rem;
+  }
 
-.newsletter form {
-  display: flex;
-  gap: 0.5rem;
-  max-width: 24rem;
-}
+  .site-title {
+    margin-bottom: 0;
+    margin-right: auto;
+    flex: 1 0 100%;
+  }
 
-.newsletter input[type="email"] {
-  flex: 1;
-  padding: 0.5rem 0.75rem;
-  font: inherit;
-  font-size: 0.95rem;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: var(--bg);
-  color: var(--text);
-}
+  .sidebar nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.9rem;
+    margin-bottom: 0;
+  }
 
-.newsletter button {
-  padding: 0.5rem 1rem;
-  font: inherit;
-  font-size: 0.95rem;
-  border: 1px solid var(--text);
-  border-radius: 4px;
-  background: var(--text);
-  color: var(--bg);
-  cursor: pointer;
-}
+  .sidebar-newsletter {
+    margin-top: 1rem;
+    flex: 1 0 100%;
+  }
 
-.newsletter button:hover {
-  opacity: 0.85;
-}
+  .sidebar-newsletter form {
+    flex-direction: row;
+  }
 
-.colophon {
-  color: var(--muted);
-  font-size: 0.85rem;
-  margin-top: 2rem;
+  .colophon {
+    flex: 1 0 100%;
+    margin-top: 1rem;
+  }
+
+  .content {
+    padding: 2rem 1.25rem 3rem;
+  }
 }
