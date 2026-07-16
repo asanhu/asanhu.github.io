@@ -235,13 +235,20 @@ h1 {
 /* Landing image (homepage) */
 .landing {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .landing img {
   max-width: 100%;
   height: auto;
   border-radius: 4px;
+}
+
+.landing-caption {
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin-top: 0.75rem;
 }
 
 .meta {
