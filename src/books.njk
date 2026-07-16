@@ -1,0 +1,26 @@
+---
+layout: base.njk
+title: Books
+permalink: /category/books/
+---
+<h1 class="page-title">Books</h1>
+
+<div class="books-intro">
+  <p>Below is a list of books that have travelled en route with me over the last three years — and the list keeps growing.</p>
+  <p>Sharing the quote on physical books that resonated with me the most:</p>
+  <blockquote>
+    <p>"The trouble with ebooks is that no one else can see what you're reading. Like it or not, books are an astonishingly efficient accessory."</p>
+    <p>"To love a book is to be overcome by an innate desire to advertise it, so that others might read it and love it too. When there's a book we've enjoyed but can't keep, and we leave it on the communal wall, and then we come back later and it's gone, it's fulfilling in a shimmeringly complex way. Someone else might be reading it: someone else's mind might be becoming just that little bit more connected to our own."</p>
+  </blockquote>
+</div>
+
+{% for book in collections.books | reverse %}
+<article class="book">
+  <a class="book-cover-link" href="{{ book.data.amazon }}" target="_blank" rel="noopener">
+    <img class="book-cover" src="{{ book.data.cover }}" alt="{{ book.data.title }}" loading="lazy">
+  </a>
+  <h2 class="book-title"><a href="{{ book.data.amazon }}" target="_blank" rel="noopener">{{ book.data.title }}</a></h2>
+  <time class="entry-date" datetime="{{ book.date | isoDate }}">{{ book.date | readableDate }}</time>
+  <div class="book-review">{{ book.templateContent | safe }}</div>
+</article>
+{% endfor %}

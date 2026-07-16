@@ -1,6 +1,8 @@
 ---
 title: "Babel"
 date: 2025-05-24
+amazon: https://www.amazon.com/Babel-Necessity-Violence-Translators-Revolution/dp/B09MV827NK
+cover: https://m.media-amazon.com/images/I/A1JG42T6fzL._SY320_.jpg
 tags: [books]
 ---
 

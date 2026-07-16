@@ -1,6 +1,8 @@
 ---
 title: "Klara and the Sun"
 date: 2026-03-11
+amazon: https://www.amazon.com/Klara-Sun-novel-Vintage-International/dp/0593311299
+cover: https://m.media-amazon.com/images/I/71w6CaOT+cL._SY320_.jpg
 tags: [books]
 ---
 

@@ -42,6 +42,13 @@ module.exports = function (eleventyConfig) {
     "epiphanies",
   ]);
 
+  // Categories rendered as simple post lists (books has its own page)
+  eleventyConfig.addCollection("listCategories", () => [
+    "travel",
+    "life",
+    "epiphanies",
+  ]);
+
   return {
     dir: {
       input: "src",

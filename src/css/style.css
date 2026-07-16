@@ -181,6 +181,57 @@ h1 {
   font-weight: 400;
 }
 
+/* Books page */
+.books-intro {
+  margin-bottom: 1rem;
+}
+
+.books-intro blockquote {
+  margin: 1.25rem 0;
+  padding-left: 1rem;
+  border-left: 2px solid var(--border);
+  color: var(--muted);
+  font-style: italic;
+}
+
+.book {
+  padding: 1.75rem 0;
+  border-top: 1px solid var(--border);
+  overflow: auto;
+}
+
+.book-cover {
+  float: left;
+  width: 110px;
+  height: auto;
+  margin: 0.3rem 1.4rem 0.8rem 0;
+  border-radius: 3px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.book-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.book-title a {
+  color: var(--link);
+}
+
+.book-title a:hover {
+  text-decoration: underline;
+}
+
+.book .entry-date {
+  margin: 0.15rem 0 0.6rem;
+}
+
+.book-review p {
+  margin: 0 0 1rem;
+}
+
 /* Landing image (homepage) */
 .landing {
   display: flex;
