@@ -31,8 +31,8 @@ My first camping experience, the first 3AM hike(which i didn't feel like a strug
 
 The ascent was pretty manageable and i was for a while leading the group as the first two went too far ahead sometimes. 
 The view on the way up was green, not the Abu Dhabi type of green where the color felt like being copy-and-paste in 
-an overnight organized and artifically manner. The green at Khustup was lively, you can see the green in slightly different 
-color coding, and the wild flowers standing themselves out with strikingly distincitve orange, yellow, white, etc. 
+an overly organized and artificial manner. The green at Khustup was lively, you can see the green in slightly different 
+color coding, and the wild flowers standing themselves out with strikingly distinctive orange, yellow, white, etc. 
 It's an acrylic painting in nature with breathable color palette.
 
 At the peak of Mt. Khustup, we went above the clouds watching it gradually climb up. Goats, the wild kings in the region,
@@ -40,13 +40,13 @@ running around from one rock to another. Everything felt so real and surreally m
 everything I've asked for, and as I recalled it, the timing couldn't be better either, as if we were to start an hour later,
 we could barely see the view above the clouds. 
 
-Now the people, as I always say, it's the company that makes the place even more memorible. David owns one of the largest grape 
-wineary yard in the country, and is experimenting AI-made wine (I assumed it's the AI-guided distillation and croptation process).
+Now the people, as I always say, it's the company that makes the place even more memorable. David owns one of the largest grape 
+winery yard in the country, and is experimenting AI-made wine (I assumed it's the AI-guided distillation process).
 Tigran, CTO of a LA based robotics delivery firm while advises the government in civil engineering, met his partner in a science 
-fair in Armenia (geeky romantic). Alex, post-doc in theoretic physics in a university based in Stockaholm (and i jokingly compared him with "Sheldon Cooper" from The Big Bang Theory). Surprisingly, the main guide in the hike Jora speaks fantastic English and conversed me the most. In the end, he told me he could feel people realy love me in the trip and i felt super warm and almost welled up. 
+fair in Armenia (geeky romantic). Alex, post-doc in theoretic physics in a university based in Stockholm (and i jokingly compared him with "Sheldon Cooper" from The Big Bang Theory). Surprisingly, the main guide in the hike Jora speaks fantastic English and conversed me the most. In the end, he told me he could feel people really love me in the trip and i felt super warm and almost welled up. 
 
-Me and Alex actually grew something in the trip but quickally dismissed itself, he was with me during the hardest part of the ascent and descent. And I felt tremendously safer when he held my hands firmly and always looked back to find me if I was behind. 
-He is a very reserved and shy boy and for a moment I wish I could stay longer in Armenia and get to know him better. But c'est la vie, in a trip, we experience things on a double speed, life was accelerated and feelings amplified. When life returns to its routine, we carefully put those lovely momories in a vault somewhere in our mind and open it whenever we want to remind ourselves that life is more than a routine but occasional excitement awaiting.
+Me and Alex actually grew something in the trip (at least from my perspective) but quickily dismissed itself, he was with me during the hardest part of the ascent and descent. And I felt tremendously safer when he held my hands firmly and always looked back to find me if I was behind. 
+He is a very reserved and shy boy and for a moment I wish I could stay longer in Armenia and get to know him better. But c'est la vie, in a trip, we experience things on a double speed, life was accelerated and feelings amplified. When life returns to its routine, we carefully put those lovely memories in a vault somewhere in our mind and open it whenever we want to remind ourselves that life is more than a routine but occasional excitement awaiting.
 
 
 
