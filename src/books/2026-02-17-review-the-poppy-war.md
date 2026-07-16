@@ -2,7 +2,7 @@
 title: "The Poppy War Trilogy"
 date: 2026-02-17
 amazon: https://www.amazon.com/Complete-Poppy-War-Trilogy-Republic/dp/B0C5S1FWKK
-cover: https://m.media-amazon.com/images/I/81OJ-ky8TiL._SY320_.jpg
+cover: /img/covers/poppy-war.jpg
 tags: [books]
 ---
 

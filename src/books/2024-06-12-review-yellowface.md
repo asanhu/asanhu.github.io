@@ -2,7 +2,7 @@
 title: "Yellowface"
 date: 2024-06-12
 amazon: https://www.amazon.com/Yellowface-Novel-R-F-Kuang-ebook/dp/B0B9SN8K6H
-cover: https://m.media-amazon.com/images/I/613uj6+BwxL._SY320_.jpg
+cover: /img/covers/yellowface.jpg
 tags: [books]
 ---
 

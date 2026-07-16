@@ -2,7 +2,7 @@
 title: "The Gin Sisters' Promise"
 date: 2026-06-26
 amazon: https://www.amazon.com/Gin-Sisters-Promise-Faith-Hogan-ebook/dp/B099KQ9D8N
-cover: https://m.media-amazon.com/images/I/81qsQQeB5-L._SY320_.jpg
+cover: /img/covers/gin-sisters.jpg
 tags: [books]
 ---
 

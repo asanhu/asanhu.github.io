@@ -2,7 +2,7 @@
 title: "Katabasis"
 date: 2026-03-11
 amazon: https://www.amazon.com/Katabasis-Standard-Novel-R-Kuang/dp/0063446243
-cover: https://m.media-amazon.com/images/I/816yNSQhjrL._SY320_.jpg
+cover: /img/covers/katabasis.jpg
 tags: [books]
 ---
 

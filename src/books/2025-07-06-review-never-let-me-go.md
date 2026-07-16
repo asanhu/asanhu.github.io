@@ -2,7 +2,7 @@
 title: "Never Let Me Go"
 date: 2025-07-06
 amazon: https://www.amazon.com/Never-Let-Me-Kazuo-Ishiguro/dp/1400078776
-cover: https://m.media-amazon.com/images/I/71DgZ3LElXL._SY320_.jpg
+cover: /img/covers/never-let-me-go.jpg
 tags: [books]
 ---
 

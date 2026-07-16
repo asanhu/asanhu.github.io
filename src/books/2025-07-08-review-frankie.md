@@ -2,7 +2,7 @@
 title: "Frankie"
 date: 2025-07-08
 amazon: https://www.amazon.com/Frankie-Novel-Graham-Norton-ebook/dp/B0CW1HRQJT
-cover: https://m.media-amazon.com/images/I/81GAvqsqNGL._SY320_.jpg
+cover: /img/covers/frankie.jpg
 tags: [books]
 ---
 

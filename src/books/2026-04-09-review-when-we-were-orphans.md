@@ -2,7 +2,7 @@
 title: "When We Were Orphans"
 date: 2026-04-09
 amazon: https://www.amazon.com/When-We-Were-Orphans-Novel/dp/0375724400
-cover: https://m.media-amazon.com/images/I/81zHsztT1qL._SY320_.jpg
+cover: /img/covers/when-we-were-orphans.jpg
 tags: [books]
 ---
 

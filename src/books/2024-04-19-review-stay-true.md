@@ -2,7 +2,7 @@
 title: "Stay True"
 date: 2024-04-19
 amazon: https://www.amazon.com/Stay-True-Memoir-Pulitzer-Vintage/dp/0593315200
-cover: https://m.media-amazon.com/images/I/71yxhm0p8LL._SY320_.jpg
+cover: /img/covers/stay-true.jpg
 tags: [books]
 ---
 

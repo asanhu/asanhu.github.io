@@ -2,7 +2,7 @@
 title: "When Breath Becomes Air"
 date: 2023-08-19
 amazon: https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X
-cover: https://m.media-amazon.com/images/I/61gwba1pQnL._SY320_.jpg
+cover: /img/covers/when-breath-becomes-air.jpg
 tags: [books]
 ---
 
